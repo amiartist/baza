@@ -213,6 +213,10 @@ a {
   width: 100%;
   max-width: 1140px;
   min-height: 30px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
   display: flex;
   justify-content: center;
   align-items: center;
